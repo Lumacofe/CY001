@@ -26,4 +26,4 @@ Se você quiser contribuir para este curso, você pode:
 - Abrir um issue para reportar um problema ou sugerir uma melhoria
 
 ## Links úteis
-Documentação do Cypress: https://docs.cypress.io/
+Documentação do Cypress: https://docs.cypress.io/# CY001
